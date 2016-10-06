@@ -53,6 +53,7 @@ body{
 
 #footer{
     clear:both;
+    position:relative;
     background-color:#4B5360;
     height:100px;
     width:100%;
