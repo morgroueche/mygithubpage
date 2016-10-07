@@ -10,12 +10,12 @@ body{
     width:100%;
     position:fixed;
     margin-bottom:20px;
-    margin-top:-10px;
+    margin-top:80px;
 }
 #header h2{
     color:#D7DEE5;
     font-family:Sans-serif;
-   /* margin-top:10;*/
+    margin-top:10;
     margin-left:5;
     float:left;
     
