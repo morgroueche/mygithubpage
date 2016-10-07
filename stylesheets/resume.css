@@ -10,7 +10,7 @@ body{
     width:100%;
     position:fixed;
     margin-bottom:20px;
-    
+    margin-top:-10px;
 }
 #header h2{
     color:#D7DEE5;
@@ -18,6 +18,7 @@ body{
     margin-top:10;
     margin-left:5;
     float:left;
+    
 }
 .left{
     background-color:#f5f5f5;
