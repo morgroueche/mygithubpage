@@ -6,11 +6,11 @@ body{
 #header{
     z-index:1;
     background-color:#2f343b;
-    height:50px;
+    height:3.125em;
     width:100%;
     position:fixed;
-    margin-bottom:20px;
-    margin-top:-20px;
+    margin-bottom:1.250em;
+    margin-top:-1.250em;
 }
 #header h2{
     color:#D7DEE5;
